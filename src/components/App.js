@@ -1,5 +1,6 @@
-import React from "react";
+import React from "react"
 import Toggle from "./Toggle";
+
 
 function App() {
   return (
@@ -9,5 +10,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
